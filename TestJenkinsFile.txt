@@ -6,6 +6,7 @@ CI - continous integration
 -----------------------
 
 Clean Package script -- Jenkins -- do build
+let see
 
 
 Again
