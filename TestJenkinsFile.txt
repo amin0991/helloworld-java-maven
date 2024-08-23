@@ -1,3 +1,13 @@
+Pipline Jobs
+ job1 --> job2 --> job3
+dependency jobs
+manual piplin
+CI - continous integration
+-----------------------
+
+Clean Package script -- Jenkins -- do build
+
+
 Again
 we are doing testing of pool scm concept
 with Jenkins to do checkout from git-hub automatically
